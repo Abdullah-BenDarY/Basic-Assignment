@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish circle area task">
-      <change beforePath="$PROJECT_DIR$/src/CircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircleArea.java" afterDir="false" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Edit circle area task without using built in fun">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/DivisibleByFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PowerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PrintAscendingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PrintdescendingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/CircleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreatestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/GreatestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/MinAndMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MonthName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/MonthName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PositiveNegativeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/PositiveNegativeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PositiveOrNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/PositiveOrNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/SortNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/VowelOrConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Watermelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifCondetion/Watermelon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715547208454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Edit circle area task without using built in fun">
+      <created>1715547553370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715547553370</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +159,7 @@
     <MESSAGE value="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
     <MESSAGE value="Finish greatest number task" />
     <MESSAGE value="Finish circle area task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish circle area task" />
+    <MESSAGE value="Edit circle area task without using built in fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit circle area task without using built in fun" />
   </component>
 </project>
