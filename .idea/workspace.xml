@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish greatest number task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715546674227</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finish greatest number task">
+      <created>1715546973365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715546973365</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +126,7 @@
     <MESSAGE value="Finish vowel char's task" />
     <MESSAGE value="Finish Watermelon task" />
     <MESSAGE value="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
+    <MESSAGE value="Finish greatest number task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish greatest number task" />
   </component>
 </project>
