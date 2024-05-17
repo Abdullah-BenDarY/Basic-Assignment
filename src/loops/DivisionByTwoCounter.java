@@ -18,9 +18,3 @@ public class DivisionByTwoCounter {
         System.out.println("The number can be divided by 2 " + count + " times before it becomes less than 2.");
     }
 }
-
-
-
-
-
-
