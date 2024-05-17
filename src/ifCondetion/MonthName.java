@@ -11,7 +11,7 @@ public class MonthName {
         int month = input.nextInt();
 
         switch (month) {
-            case 1:
+            case 1 :
                 System.out.println("January" + "\nThe month is in Winter");
                 break;
             case 2:
