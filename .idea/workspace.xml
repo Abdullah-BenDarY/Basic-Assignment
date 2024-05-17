@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish power task">
-      <change afterPath="$PROJECT_DIR$/src/loops/FactorialCalculator.java" afterDir="false" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish Number Sequence 2 task">
+      <change afterPath="$PROJECT_DIR$/src/loops/AverageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/OddCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/DivisibleByFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/DivisibleByFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/FactorialCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/FactorialCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/NumberSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/NumberSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +141,28 @@
       <option name="project" value="LOCAL" />
       <updated>1715626164134</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finish Factorial Calculator task">
+      <created>1715955808612</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715955808612</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Finish Number Sequence task">
+      <created>1715956149906</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715956149906</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finish Number Sequence 2 task">
+      <created>1715956372879</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715956372879</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +187,35 @@
     <MESSAGE value="Edit circle area task without using built in fun" />
     <MESSAGE value="Finish ( divisable by 5 &amp;&amp; Power Calculator &amp;&amp; PrintAscendingNumbers &amp;&amp; PrintdescendingNumber ) task and create if and loops bakages" />
     <MESSAGE value="Finish power task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish power task" />
+    <MESSAGE value="Finish Factorial Calculator task" />
+    <MESSAGE value="Finish Number Sequence task" />
+    <MESSAGE value="Finish Number Sequence 2 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Number Sequence 2 task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/FactorialCalculator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/FactorialCalculator.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/FactorialCalculator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/FactorialCalculator.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
