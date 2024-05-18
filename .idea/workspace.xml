@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish SimpleCalculator task">
-      <change afterPath="$PROJECT_DIR$/src/functions_Arrays/ArraySummition.java" afterDir="false" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish ArraySummation task">
+      <change afterPath="$PROJECT_DIR$/src/functions_Arrays/NumnerOfArrayElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715961977568</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Finish ArraySummation task">
+      <created>1716052942996</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716052942996</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +243,8 @@
     <MESSAGE value="Finish DivisionBy 5 Or 6 task" />
     <MESSAGE value="Finish MarksToGrade task" />
     <MESSAGE value="Finish SimpleCalculator task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish SimpleCalculator task" />
+    <MESSAGE value="Finish ArraySummation task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish ArraySummation task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
