@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish NumberOfArrayElements task">
-      <change afterPath="$PROJECT_DIR$/src/functions_Arrays/GetMinNum.java" afterDir="false" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish get max and min numbers task">
+      <change afterPath="$PROJECT_DIR$/src/functions_Arrays/EvenNumberCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716059080255</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Finish get max and min numbers task">
+      <created>1716059334777</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716059334777</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +265,8 @@
     <MESSAGE value="Finish SimpleCalculator task" />
     <MESSAGE value="Finish ArraySummation task" />
     <MESSAGE value="Finish NumberOfArrayElements task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish NumberOfArrayElements task" />
+    <MESSAGE value="Finish get max and min numbers task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish get max and min numbers task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
