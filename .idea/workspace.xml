@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish Count Num 2 task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions_Arrays/CountNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions_Arrays/CountNum2.java" afterDir="false" />
-    </list>
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Edit Count Num 2 task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716160518976</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Edit Count Num 2 task">
+      <created>1716161878870</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716161878870</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +287,8 @@
     <MESSAGE value="Finish get max and min numbers task" />
     <MESSAGE value="Finish evenn number calculator task" />
     <MESSAGE value="Finish Count Num 2 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Count Num 2 task" />
+    <MESSAGE value="Edit Count Num 2 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Count Num 2 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
