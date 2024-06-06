@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Edit Count Num 2 task" />
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Initialize oop first task test">
+      <change beforePath="$PROJECT_DIR$/src/oop/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/BankAccountTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716161878870</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Initialize oop first task test">
+      <created>1717642831890</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1717642831890</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +273,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initlal commit" />
     <MESSAGE value="Finish month name and season task" />
     <MESSAGE value="Finish vowel char's task" />
     <MESSAGE value="Finish Watermelon task" />
@@ -288,7 +297,8 @@
     <MESSAGE value="Finish evenn number calculator task" />
     <MESSAGE value="Finish Count Num 2 task" />
     <MESSAGE value="Edit Count Num 2 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit Count Num 2 task" />
+    <MESSAGE value="Initialize oop first task test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize oop first task test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
