@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish Holiday Task &amp; Edit bank account task">
-      <change afterPath="$PROJECT_DIR$/src/oop/movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/movie/MovieTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish Movie Task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717776382619</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Finish Movie Task">
+      <created>1717776767267</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1717776767267</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +298,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
     <MESSAGE value="Finish greatest number task" />
     <MESSAGE value="Finish circle area task" />
     <MESSAGE value="Edit circle area task without using built in fun" />
@@ -319,7 +322,8 @@
     <MESSAGE value="Finish oop first task test" />
     <MESSAGE value="Edit &amp; Finish oop bank account task" />
     <MESSAGE value="Finish Holiday Task &amp; Edit bank account task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Holiday Task &amp; Edit bank account task" />
+    <MESSAGE value="Finish Movie Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Movie Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

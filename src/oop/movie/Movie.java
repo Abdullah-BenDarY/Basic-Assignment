@@ -14,7 +14,6 @@ public class Movie {
         this.rating = rating;
     }
 
-    // Second Constructor
     public Movie(String title, String studio) {
         this.title = title;
         this.studio = studio;
