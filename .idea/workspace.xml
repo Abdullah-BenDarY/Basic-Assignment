@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Finish oop first task test">
+    <list default="true" id="ddfb2749-ebe0-446f-a48d-df447613d1d2" name="Changes" comment="Edit &amp; Finish oop bank account task">
+      <change afterPath="$PROJECT_DIR$/src/oop/holiday/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/holiday/HolidayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankAccount/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankAccount/BankAccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717643533306</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Edit &amp; Finish oop bank account task">
+      <created>1717774947991</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1717774947991</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +290,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finish vowel char's task" />
     <MESSAGE value="Finish Watermelon task" />
     <MESSAGE value="Finish ( minimum and maximum &amp;&amp; Sort numbers ) task" />
     <MESSAGE value="Finish greatest number task" />
@@ -306,7 +314,8 @@
     <MESSAGE value="Edit Count Num 2 task" />
     <MESSAGE value="Initialize oop first task test" />
     <MESSAGE value="Finish oop first task test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish oop first task test" />
+    <MESSAGE value="Edit &amp; Finish oop bank account task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit &amp; Finish oop bank account task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

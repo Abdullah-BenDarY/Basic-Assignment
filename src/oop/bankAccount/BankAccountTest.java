@@ -1,4 +1,4 @@
-package oop;
+package oop.bankAccount;
 
 import java.util.Scanner;
 
@@ -28,7 +28,6 @@ public class BankAccountTest {
                     break;
                 case 3:
                     System.out.println("Your balance is: " + bankAccount.getBalance());
-
                     break;
 
             }
