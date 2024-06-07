@@ -1,41 +1,51 @@
 package oop;
 
 public class BankAccount {
-    private String name;
-    private int accountNumber;
-    private int amount;
-    private String phone;
 
+    private int accountId;
+    private int balance;
+
+    public BankAccount(int balance) {
+        this.balance = balance;
+    }
     public BankAccount() {
+        balance =0;
     }
 
-    public BankAccount(int amount) {
-        this.amount = amount;
-        accountNumber = 541541;
-        name = "Abdullah";
-        phone = "015444444444";
-
+    public void withdraw(int withdrawAmount){
+        if (balance >= withdrawAmount && withdrawAmount > 0){
+            balance = balance - withdrawAmount;
+            System.out.println("Your withdraw amount is: " + withdrawAmount +
+                    "\nCurrent balance is: " + balance );
+        }else {
+            System.out.println("Sorry, Available balance is not enough");
+        }
     }
 
-
-    public void setAmount(int amount) {
-        this.amount = amount;
+    public void deposit(int deposit){
+        if (deposit > 0) {
+            balance = balance + deposit;
+            System.out.println("Your current balance is: " + balance);
+        }else {
+            System.out.println("Please enter a valid number");
+        }
     }
 
-    public String getName() {
-        return name;
+    public int getAccountId() {
+        return accountId;
     }
 
-    public int getAccountNumber() {
-        return accountNumber;
+    public int getBalance() {
+        return balance;
     }
 
-    public int getAmount() {
-        return amount;
+    public void setAccountId(int accountId) {
+        this.accountId = accountId;
     }
 
-    public String getPhone() {
-        return phone;
+    public void setBalance(int balance) {
+        this.balance = balance;
     }
 }
+
 
