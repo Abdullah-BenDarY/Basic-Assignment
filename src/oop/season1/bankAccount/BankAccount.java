@@ -1,4 +1,4 @@
-package oop.bankAccount;
+package oop.season1.bankAccount;
 
 public class BankAccount {
 

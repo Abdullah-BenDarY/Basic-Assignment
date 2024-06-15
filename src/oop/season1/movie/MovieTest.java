@@ -1,4 +1,4 @@
-package oop.movie;
+package oop.season1.movie;
 
 public class MovieTest {
     public static void main(String[] args) {

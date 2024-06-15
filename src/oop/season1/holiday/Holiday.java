@@ -1,4 +1,4 @@
-package oop.holiday;
+package oop.season1.holiday;
 
 public class Holiday {
 

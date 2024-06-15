@@ -1,4 +1,4 @@
-package oop.movie;
+package oop.season1.movie;
 
 import java.util.ArrayList;
 
