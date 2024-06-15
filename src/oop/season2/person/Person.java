@@ -1,6 +1,10 @@
 package oop.season2.person;
 
-public class Person {
+import org.omg.CORBA.Any;
+
+import java.util.ArrayList;
+
+public abstract class Person {
 
     private String name;
     private String adress;
@@ -9,6 +13,7 @@ public class Person {
         this.name = name;
         this.adress = adress;
     }
+
 
     public String getName() {
         return name;
@@ -26,4 +31,5 @@ public class Person {
     public String toString() {
         return name + " ( " + adress + " ) ";
     }
+
 }
